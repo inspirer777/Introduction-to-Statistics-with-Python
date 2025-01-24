@@ -36,6 +36,5 @@ This project provides a comprehensive introduction to basic statistics using Pyt
 This project is licensed under the [MIT License](LICENSE).  
 You are free to use, modify, and distribute this project under the terms of the license.
 
-For more details, please see the [LICENSE](LICENSE) file.
-# Good luck !    
+ Good luck !    
 
